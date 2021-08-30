@@ -1,3 +1,3 @@
-# What is faster to insert into DOM— HTML or DOM nodes?
+# requestAnimationFrame() not for animation — a key tool illustrated and explained
 
-Sample code for my post https://marian-caikovski.medium.com/what-is-faster-to-insert-into-dom-html-or-dom-nodes-ff11586f8570 comparing performance of innerHTML, insertAdjacentHTML(), appendChild(), append(), prepend(), insertAdjacentElement() and replaceChildren()
+Sample code for my post https://marian-caikovski.medium.com/requestanimationframe-not-for-animation-a-key-tool-illustrated-and-explained-7cd987f07697 measuring rendering time of web application components
