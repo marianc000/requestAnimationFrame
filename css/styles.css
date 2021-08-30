@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: mediumblue;
+    padding: 1em;
+}
+
+.container {
+    text-align: center;
+}
